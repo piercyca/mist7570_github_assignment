@@ -1,0 +1,7 @@
+**** 1) add one line with your first name and initial of your last name ****
+**** 2) add a second line with a favorite quote                         ****
+**** 3) stage, commit and push your changes to the github repository ****
+
+- Craig P.
+- "Do or do not, there is no try!" - Yoda
+
