@@ -31,6 +31,10 @@ Instructions:
   <td>Craig</td>
   <td>P</td>
 </tr>
+<tr>
+  <td>Julie</td>
+  <td>J</td>
+</tr>
 </table>
 
 </body>
