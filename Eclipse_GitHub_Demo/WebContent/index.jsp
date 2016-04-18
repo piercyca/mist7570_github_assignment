@@ -39,6 +39,11 @@ Instructions:
   <td>Micah</td>
   <td>C</td>
 </tr>
+<tr>
+  <td>Phillip</td>
+  <td>M</td>
+</tr>
+
 </table>
 
 </body>
