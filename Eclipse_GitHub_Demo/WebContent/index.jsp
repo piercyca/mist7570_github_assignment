@@ -35,6 +35,10 @@ Instructions:
   <td>Nhia</td>
   <td>V</td>
 </tr>
+<tr>
+  <td>Micah</td>
+  <td>C</td>
+</tr>
 </table>
 
 </body>
