@@ -31,6 +31,10 @@ Instructions:
   <td>Craig</td>
   <td>P</td>
 </tr>
+<tr>
+  <td>Nhia</td>
+  <td>V</td>
+</tr>
 </table>
 
 </body>
