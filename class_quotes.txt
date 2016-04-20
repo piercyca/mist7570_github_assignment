@@ -15,4 +15,9 @@
 - "Winter is coming..." - Ned Stark (pretty much all Starks in GoT)
 
 - Alexander M.
+<<<<<<< Updated upstream
 - "Hope is not a Strategy" - Rick Page
+=======
+- “Hope is not a Strategy” - Rick Page
+
+>>>>>>> Stashed changes
