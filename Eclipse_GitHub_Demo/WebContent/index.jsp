@@ -54,6 +54,10 @@ Instructions:
   <td>M</td>
 </tr>
 
+<tr>
+  <td>Karen</td>
+  <td>L</td>
+</tr>
 
 
 </table>
