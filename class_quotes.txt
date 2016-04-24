@@ -29,4 +29,7 @@ from the successful one is a lot of hard work. - Stephen King
 
 - Glen F.
 - "There is no tomorrow" - Apollo Creed
+
+- Brian W.
+- "You better cut the pizza in four pieces because I'm not hungry enough to eat six." - Yogi Berra (Not Bear)
 >>>>>>> Stashed changes
