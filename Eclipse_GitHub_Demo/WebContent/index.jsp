@@ -67,6 +67,10 @@ Instructions:
   <td>Brian</td>
   <td>W</td>
 </tr>
+<tr>
+  <td>Alexander</td>
+  <td>C</td>
+</tr>
 
 
 
