@@ -9,7 +9,7 @@
 - "Wedding is nothing but a three ring circus. First, the engagement ring. Second, the wedding ring. Third, the suffering." - Abbot & Costello
 
 - Micah C.
-- "Yeah, well. The Dude abides." - The Dude
+- "Yeah, well. The Dude abides." - The Dude and others
 
 - Phillip M.
 - "Winter is coming..." - Ned Stark (pretty much all Starks in GoT)
@@ -30,6 +30,11 @@ from the successful one is a lot of hard work. - Stephen King
 - Glen F.
 - "There is no tomorrow" - Apollo Creed
 
+<<<<<<< HEAD
 - Alexander C.
 - "You can never cross the ocean until you have the courage to lose sight of the shore" - Christopher Columbus
+=======
+- Brian W.
+- "You better cut the pizza in four pieces because I'm not hungry enough to eat six." - Yogi Berra (Not Bear)
+>>>>>>> origin/master
 >>>>>>> Stashed changes

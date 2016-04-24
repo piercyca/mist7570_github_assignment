@@ -63,6 +63,10 @@ Instructions:
   <td>Glen</td>
   <td>F</td>
 </tr>
+<tr>
+  <td>Brian</td>
+  <td>W</td>
+</tr>
 
 
 
