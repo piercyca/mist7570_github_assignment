@@ -36,5 +36,9 @@ from the successful one is a lot of hard work. - Stephen King
 =======
 - Brian W.
 - "You better cut the pizza in four pieces because I'm not hungry enough to eat six." - Yogi Berra (Not Bear)
+
+- Ryan D.
+- "The problem with internet quotes is that you can't always depend on their accuracy." - Abraham Lincoln, 1864
+
 >>>>>>> origin/master
 >>>>>>> Stashed changes
