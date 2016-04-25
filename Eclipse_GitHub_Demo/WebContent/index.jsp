@@ -77,6 +77,10 @@ Instructions:
   <td>D</td>
 </tr>
 
+<tr>
+<td>Katie</td>
+<td>C</td>
+</tr>
 
 
 </table>
