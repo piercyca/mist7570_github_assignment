@@ -42,3 +42,6 @@ from the successful one is a lot of hard work. - Stephen King
 
 >>>>>>> origin/master
 >>>>>>> Stashed changes
+
+-Katie C.
+-It is better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt. - Mark Twain
