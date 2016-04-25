@@ -82,6 +82,10 @@ Instructions:
 <td>C</td>
 </tr>
 
+<tr>
+<td>Wale</td>
+<td>A</td>
+</tr>
 
 </table>
 
