@@ -53,39 +53,12 @@ Instructions:
   <td>Jarett</td>
   <td>M</td>
 </tr>
-<tr>
-  <td>Mike</td>
-  <td>C</td>
-</tr>
-
 
 <tr>
-  <td>Glen</td>
-  <td>F</td>
-</tr>
-<tr>
-  <td>Brian</td>
-  <td>W</td>
-</tr>
-<tr>
-  <td>Alexander</td>
-  <td>C</td>
+  <td>Karen</td>
+  <td>L</td>
 </tr>
 
-<tr>
-  <td>Ryan</td>
-  <td>D</td>
-</tr>
-
-<tr>
-<td>Katie</td>
-<td>C</td>
-</tr>
-
-<tr>
-<td>Wale</td>
-<td>A</td>
-</tr>
 
 </table>
 
