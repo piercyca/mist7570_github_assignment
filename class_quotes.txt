@@ -1,4 +1,4 @@
-﻿**** 1) add one line with your first name and initial of your last name ****
+**** 1) add one line with your first name and initial of your last name ****
 **** 2) add a second line with a favorite quote                         ****
 **** 3) stage, commit and push your changes to the github repository ****
 
@@ -51,3 +51,6 @@ from the successful one is a lot of hard work. - Stephen King
 
 Karen L.
  Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present. -Kung Fu Panda
+
+-Joe V.
+-“That’s what I do. I drink and I know things” - Tyrion Lannister
