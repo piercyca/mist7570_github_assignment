@@ -69,6 +69,10 @@ Instructions:
   <td>M</td>
 </tr>
 
+<tr>
+  <td>Clark</td>
+  <td>W</td>
+</tr>
 </table>
 
 </body>

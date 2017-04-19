@@ -1,4 +1,4 @@
-﻿**** 1) add one line with your first name and initial of your last name ****
+**** 1) add one line with your first name and initial of your last name ****
 **** 2) add a second line with a favorite quote                         ****
 **** 3) stage, commit and push your changes to the github repository ****
 
@@ -57,3 +57,6 @@ Karen L.
 
 - Greg M. 
 - "I say what I want to say and do what I want to do. There's no in between. People will either love you for it or hate you for it." - Eminem
+
+- Clark W.
+-“Sometimes I’ll start a sentence and I don’t even know where it’s going.  I just hope I find it along the way.” - Michael Scott
