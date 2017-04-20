@@ -59,7 +59,20 @@ Instructions:
   <td>L</td>
 </tr>
 
+<tr>
+  <td>Joe</td>
+  <td>V</td>
+</tr>
+    
+<tr>
+  <td>Greg</td>
+  <td>M</td>
+</tr>
 
+<tr>
+  <td>Clark</td>
+  <td>W</td>
+</tr>
 </table>
 
 </body>
