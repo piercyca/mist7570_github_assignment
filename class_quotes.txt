@@ -1,4 +1,4 @@
-﻿**** 1) add one line with your first name and initial of your last name ****
+**** 1) add one line with your first name and initial of your last name ****
 **** 2) add a second line with a favorite quote                         ****
 **** 3) stage, commit and push your changes to the github repository ****
 
@@ -53,13 +53,11 @@ Karen L.
 - Clark W.
 -“Sometimes I’ll start a sentence and I don’t even know where it’s going.  I just hope I find it along the way.” - Michael Scott
 
-<<<<<<< HEAD
 -John P.
 -“When 900 years old, you reach....Look as good, you will not.”  - Master Yoda
-=======
+
 - Dan C.
 -“‘You miss 100% of the shots you don’t take’ - Wayne Gretzky” - Michael Scott
-=======
+
 -Jamaris J.
 -"It's Morphin Time!" - Power Rangers
->>>>>>> origin/master
