@@ -73,6 +73,11 @@ Instructions:
   <td>Clark</td>
   <td>W</td>
 </tr>
+
+<tr>
+  <td>John</td>
+  <td>P</td>
+</tr>
 </table>
 
 </body>
