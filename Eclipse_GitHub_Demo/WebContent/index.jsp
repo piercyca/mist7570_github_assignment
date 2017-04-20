@@ -82,7 +82,10 @@ Instructions:
   <td>Jamaris</td>
   <td>J</td>
 </tr>
+<tr>
+  <td>Dan</td>
+  <td>C</td>
+</tr>
 </table>
-
 </body>
 </html>
