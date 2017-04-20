@@ -61,5 +61,10 @@ Karen L.
 - Clark W.
 -“Sometimes I’ll start a sentence and I don’t even know where it’s going.  I just hope I find it along the way.” - Michael Scott
 
+<<<<<<< HEAD
 -John P.
 -“When 900 years old, you reach… Look as good, you will not.”  - Master Yoda
+=======
+- Dan C.
+-“‘You miss 100% of the shots you don’t take’ - Wayne Gretzky” - Michael Scott
+>>>>>>> origin/master
