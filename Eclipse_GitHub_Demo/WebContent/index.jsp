@@ -90,6 +90,10 @@ Instructions:
   <td>Jennifer</td>
   <td>L</td>
 </tr>
+<tr>
+  <td>Ben</td>
+  <td>P</td>
+</tr>
 </table>
 </body>
 </html>
