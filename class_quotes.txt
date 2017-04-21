@@ -62,5 +62,10 @@ Karen L.
 -Jamaris J.
 -"It's Morphin Time!" - Power Rangers
 
+<<<<<<< HEAD
 - Ben P.
 - "Time is an illusion. Lunchtime doubly so." - Douglas Adams 
+=======
+- Jennifer L.
+- "The pen is mightier than the sword if the sword is very short, and the pen is very sharp" - Terry Pratchett, The Light Fantastic
+>>>>>>> origin/master

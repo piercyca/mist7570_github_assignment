@@ -86,6 +86,10 @@ Instructions:
   <td>Dan</td>
   <td>C</td>
 </tr>
+<tr>
+  <td>Jennifer</td>
+  <td>L</td>
+</tr>
 </table>
 </body>
 </html>
