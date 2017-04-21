@@ -1,4 +1,4 @@
-**** 1) add one line with your first name and initial of your last name ****
+﻿**** 1) add one line with your first name and initial of your last name ****
 **** 2) add a second line with a favorite quote                         ****
 **** 3) stage, commit and push your changes to the github repository ****
 
@@ -21,6 +21,9 @@
 - “Your focus determines your reality.” – Qui-Gon Jinn (star wars)
 
 Mike C.
+
+- Ben P.
+- "Time is an illusion. Lunchtime doubly so." - Douglas Adams
 Talent is cheaper than table salt. What separates the talented individual 
 from the successful one is a lot of hard work. - Stephen King
 
