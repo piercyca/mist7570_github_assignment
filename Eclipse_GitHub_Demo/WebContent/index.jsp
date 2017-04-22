@@ -94,6 +94,10 @@ Instructions:
   <td>Ben</td>
   <td>P</td>
 </tr>
+<tr>
+  <td>Eliseo</td>
+  <td>S</td>
+</tr>
 </table>
 </body>
 </html>
