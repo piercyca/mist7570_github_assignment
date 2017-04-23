@@ -102,6 +102,10 @@ Instructions:
 	<td>Lideta</td>
 	<td>K</td>
 </tr>
+<tr>
+	<td>Ashley</td>
+	<td>R</td>
+</tr>
 </table>
 </body>
 </html>
