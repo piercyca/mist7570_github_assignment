@@ -98,6 +98,10 @@ Instructions:
   <td>Eliseo</td>
   <td>S</td>
 </tr>
+<tr>
+	<td>Lideta</td>
+	<td>K</td>
+</tr>
 </table>
 </body>
 </html>
