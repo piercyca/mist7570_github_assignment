@@ -1,4 +1,4 @@
-**** 1) add one line with your first name and initial of your last name ****
+﻿**** 1) add one line with your first name and initial of your last name ****
 **** 2) add a second line with a favorite quote                         ****
 **** 3) stage, commit and push your changes to the github repository ****
 
@@ -68,7 +68,7 @@ Karen L.
 - Jennifer L.
 - "The pen is mightier than the sword if the sword is very short, and the pen is very sharp" - Terry Pratchett, The Light Fantastic
 
-- Eliseo S.
+- Eliseo S.**
 - “If you tell the truth, you don't have to remember anything.” - Mark Twain 
 
 -Lideta K.
