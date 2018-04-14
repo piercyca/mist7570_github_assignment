@@ -110,6 +110,10 @@ Instructions:
 	<td>Justin</td>
 	<td>U</td>
 </tr>
+<tr>
+	<td>Sarah</td>
+	<td>G</td>
+</tr>
 </table>
 </body>
 </html>
