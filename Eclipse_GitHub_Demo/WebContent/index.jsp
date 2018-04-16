@@ -114,6 +114,10 @@ Instructions:
 	<td>Sarah</td>
 	<td>G</td>
 </tr>
+<tr>
+	<td>Erick</td>
+	<td>H</td>
+</tr>
 </table>
 </body>
 </html>
