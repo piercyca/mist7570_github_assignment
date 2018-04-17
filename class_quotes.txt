@@ -1,4 +1,4 @@
-﻿**** 1) add one line with your first name and initial of your last name ****
+**** 1) add one line with your first name and initial of your last name ****
 **** 2) add a second line with a favorite quote                         ****
 **** 3) stage, commit and push your changes to the github repository ****
 
@@ -87,11 +87,10 @@ Karen L.
 - "It's all to do with the training: you can do a lot if you're properly trained." - Queen Elizabeth II
 
 - Sarah G. 
-- "We can choose to be perfect and admired or to be real and loved." - Glennon Doyle Melton 
+- "We can choose to be perfect and admired or to be real and loved." - Glennon Doyle Melton
 
-- Erick H. 
-- "You get what you put in and people get what they deserve" - Kid Rock
+- Jefferson B.
+- "It's not whether you get knocked down, it's whether you get up." — Vince Lombardi 
 
-- Michael M.
-- "You had me at meat tornado." - Ron Swanson
-
+- Josh D.
+- "End? No, the journey doesn't end here. Death is just another path, one that we all must take. The grey rain-curtain of this world rolls back, and all turns to silver glass, and then you see it. White shores, and beyond, a far green country under a swift sunrise." - Gandalf the White
