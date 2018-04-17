@@ -118,6 +118,11 @@ Instructions:
 	<td>Erick</td>
 	<td>H</td>
 </tr>
+<tr>
+	<td>Michael</td>
+	<td>M</td>
+</tr>
+
 </table>
 </body>
 </html>
