@@ -126,6 +126,13 @@ Instructions:
     <td>Ben</td>
     <td>S</td>
 </tr>
+<tr>
+    <td>Nicholas</td>
+    <td>R</td>
+</tr>
+
+
+
 </table>
 </body>
 </html>
