@@ -129,6 +129,12 @@ Instructions:
 <tr>
 	<td>Nicholas</td>
 	<td>R</td>
+	
+</tr>
+<tr>
+	<td>Sarah</td>
+	<td>F</td>
+	
 </tr>
 </table>
 </body>
