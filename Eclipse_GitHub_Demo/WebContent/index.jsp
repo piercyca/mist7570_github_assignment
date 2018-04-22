@@ -136,6 +136,12 @@ Instructions:
 	<td>F</td>
 	
 </tr>
+
+<tr>
+	<td>Shampaine</td>
+	<td>E</td>
+</tr>
+
 </table>
 </body>
 </html>
