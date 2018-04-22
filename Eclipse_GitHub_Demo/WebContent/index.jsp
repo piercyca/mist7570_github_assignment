@@ -136,12 +136,19 @@ Instructions:
 	<td>F</td>
 	
 </tr>
+<<<<<<< HEAD
 
 <tr>
 	<td>Shampaine</td>
 	<td>E</td>
 </tr>
 
+=======
+<tr>
+	<td>Jason</td>
+	<td>R</td>
+</tr>
+>>>>>>> 4c44366c6db8d87a7e5a3f9a7daa0ddd6e3ed5f9
 </table>
 </body>
 </html>
