@@ -1,4 +1,4 @@
-﻿**** 1) add one line with your first name and initial of your last name ****
+﻿  **** 1) add one line with your first name and initial of your last name ****
 **** 2) add a second line with a favorite quote                         ****
 **** 3) stage, commit and push your changes to the github repository ****
 
@@ -71,6 +71,9 @@ Karen L.
 - Eliseo S.**
 - “If you tell the truth, you don't have to remember anything.” - Mark Twain 
 
+-Nicholas R.
+-"Tomorrow belongs to those who prepare for it today." - Malcolm X
+
 -Lideta K.
 -"There is one thing stronger than all the armies in the world, and that is an idea whose time has come." - Victor Hugo
 
@@ -87,11 +90,28 @@ Karen L.
 - "It's all to do with the training: you can do a lot if you're properly trained." - Queen Elizabeth II
 
 - Sarah G. 
-- "We can choose to be perfect and admired or to be real and loved." - Glennon Doyle Melton 
+- "We can choose to be perfect and admired or to be real and loved." - Glennon Doyle Melton
 
-- Erick H. 
-- "You get what you put in and people get what they deserve" - Kid Rock
+- Jefferson B.
+- "It's not whether you get knocked down, it's whether you get up." — Vince Lombardi 
 
-- Michael M.
-- "You had me at meat tornado." - Ron Swanson
+- Josh D.
+- "End? No, the journey doesn't end here. Death is just another path, one that we all must take. The grey rain-curtain of this world rolls back, and all turns to silver glass, and then you see it. White shores, and beyond, a far green country under a swift sunrise." - Gandalf the White
 
+- Michael Y.
+- "I'm not convinced I know how to read. I've just memorized a lot of words." - Nick from New Girl
+
+-Yi J.
+- "It’s never too late to do the right thing." - Nicholas Sparks
+
+- Ben S.
+- What counts is not necessarily the size of the dog in the fight - it's the size of the fight in the dog."  Dwight D. Eisenhower
+
+- Sarah F. 
+- A society grows great when old men plant trees whose shade they know they shall never sit in.” Greek Proverb 
+
+- Matt S.
+- "Life is what happens when you're busy making other plans." - John Lennon
+
+- Jason R.
+- "Don't make me angry. You won't like me when I'm angry" - Dr. Bruce Banner

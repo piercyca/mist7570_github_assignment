@@ -19,7 +19,7 @@ Instructions:
 <ol>
 <li>Add your name to the following table.</li>
 <li>Save, stage, commit and push your changes to the Git Repository.</li>
-</ol> 
+</ol>
 </p>
 
 <table border=1>
@@ -63,7 +63,7 @@ Instructions:
   <td>Joe</td>
   <td>V</td>
 </tr>
-    
+
 <tr>
   <td>Greg</td>
   <td>M</td>
@@ -115,8 +115,30 @@ Instructions:
 	<td>G</td>
 </tr>
 <tr>
-	<td>Erick</td>
-	<td>H</td>
+    <td>Jefferson</td>
+    <td>B</td>
+</tr>
+<tr>
+    <td>Josh</td>
+    <td>D</td>
+</tr>
+<tr>
+    <td>Michael</td>
+    <td>Y</td>
+</tr>
+<tr>
+	<td>Nicholas</td>
+	<td>R</td>
+	
+</tr>
+<tr>
+	<td>Sarah</td>
+	<td>F</td>
+	
+</tr>
+<tr>
+	<td>Jason</td>
+	<td>R</td>
 </tr>
 <tr>
 	<td>Michael</td>
