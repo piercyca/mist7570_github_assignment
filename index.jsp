@@ -130,9 +130,25 @@ Instructions:
     <td>Nicholas</td>
     <td>R</td>
 </tr>
+
+<tr>
+    <td>Michael</td>
+    <td>M</td>
+</tr>
+
 <tr>
 	<td>Matt</td>
 	<td>S</td>
+</tr>
+
+<tr>
+	<td>Josh</td>
+	<td>E</td>
+</tr>
+	
+<tr>
+	<td>Westin</td>
+	<td>H</td>
 </tr>
 
 

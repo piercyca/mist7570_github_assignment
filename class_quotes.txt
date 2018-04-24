@@ -114,6 +114,7 @@ Karen L.
 - "Life is what happens when you're busy making other plans." - John Lennon
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Shampaine E.
 - “You are never too old to reinvent yourself.” -Steve Harvey
 
@@ -121,3 +122,17 @@ Karen L.
 - Jason R.
 - "Don't make me angry. You won't like me when I'm angry" - Dr. Bruce Banner
 >>>>>>> 4c44366c6db8d87a7e5a3f9a7daa0ddd6e3ed5f9
+=======
+-Josh E.
+-“The highest reward for a man’s toil is not what he gets by it but what he becomes by it.” – John Ruskin
+=======
+- Jason R.
+- "Don't make me angry. You won't like me when I'm angry" - Dr. Bruce Banner
+
+- Michael M.
+- "You had me at Meat Tornado" - Ron Swanson
+>>>>>>> 443c1a921e43f3dc0d3299dabfa73b8ac988e0ae
+
+- Westin H.
+- "Never gonna give you up, Never gonna let you down, Never gonna run around and desert you" - Rick Astley
+>>>>>>> ae1a6ec49c2f65527d6d190878d69f2a510dd351
