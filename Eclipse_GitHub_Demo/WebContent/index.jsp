@@ -148,6 +148,12 @@ Instructions:
 	<td>Michael</td>
 	<td>M</td>
 >>>>>>> 443c1a921e43f3dc0d3299dabfa73b8ac988e0ae
+	
+<tr> 
+	<td>Westin</td>
+	<td>H</td>
+</tr>
+
 </tr>
 </table>
 </body>
