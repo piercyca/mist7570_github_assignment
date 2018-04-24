@@ -113,5 +113,13 @@ Karen L.
 - Matt S.
 - "Life is what happens when you're busy making other plans." - John Lennon
 
+<<<<<<< HEAD
 -Josh E.
 -“The highest reward for a man’s toil is not what he gets by it but what he becomes by it.” – John Ruskin
+=======
+- Jason R.
+- "Don't make me angry. You won't like me when I'm angry" - Dr. Bruce Banner
+
+- Michael M.
+- "You had me at Meat Tornado" - Ron Swanson
+>>>>>>> 443c1a921e43f3dc0d3299dabfa73b8ac988e0ae
