@@ -180,6 +180,10 @@ Instructions:
   <td>Charles</td>
   <td>H</td>
 </tr>
+<tr>
+  <td>Billy</td>
+  <td>N</td>
+</tr>
 </table>
 </body>
 </html>
