@@ -129,12 +129,12 @@ Instructions:
 <tr>
 	<td>Nicholas</td>
 	<td>R</td>
-	
+
 </tr>
 <tr>
 	<td>Sarah</td>
 	<td>F</td>
-	
+
 </tr>
 <<<<<<< HEAD
 
@@ -159,8 +159,8 @@ Instructions:
 	<td>Michael</td>
 	<td>M</td>
 >>>>>>> 443c1a921e43f3dc0d3299dabfa73b8ac988e0ae
-	
-<tr> 
+
+<tr>
 	<td>Westin</td>
 	<td>H</td>
 </tr>
@@ -191,6 +191,10 @@ Instructions:
 <tr>
   <td>William</td>
   <td>I</td>
+</tr>
+<tr>
+  <td>Chris</td>
+  <td>R</td>
 </tr>
 </table>
 </body>
