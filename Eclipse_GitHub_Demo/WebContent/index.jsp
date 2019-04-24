@@ -176,6 +176,10 @@ Instructions:
   <td>Justin</td>
   <td>A</td>
 </tr>
+<tr>
+  <td>Charles</td>
+  <td>H</td>
+</tr>
 </table>
 </body>
 </html>
