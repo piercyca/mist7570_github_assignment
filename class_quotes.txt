@@ -1,4 +1,4 @@
-﻿  **** 1) add one line with your first name and initial of your last name ****
+﻿**** 1) add one line with your first name and initial of your last name ****
 **** 2) add a second line with a favorite quote                         ****
 **** 3) stage, commit and push your changes to the github repository ****
 
@@ -21,7 +21,7 @@
 - “Your focus determines your reality.” – Qui-Gon Jinn (star wars)
 
 Mike C.
-Talent is cheaper than table salt. What separates the talented individual
+Talent is cheaper than table salt. What separates the talented individual 
 from the successful one is a lot of hard work. - Stephen King
 
 - Glen F.
@@ -47,7 +47,7 @@ Karen L.
 - Joe V.
 - “That’s what I do. I drink and I know things” - Tyrion Lannister
 
-- Greg M.
+- Greg M. 
 - "I say what I want to say and do what I want to do. There's no in between. People will either love you for it or hate you for it." - Eminem
 
 - Clark W.
@@ -63,104 +63,22 @@ Karen L.
 -"It's Morphin Time!" - Power Rangers
 
 - Ben P.
-- "Time is an illusion. Lunchtime doubly so." - Douglas Adams
+- "Time is an illusion. Lunchtime doubly so." - Douglas Adams 
 
 - Jennifer L.
 - "The pen is mightier than the sword if the sword is very short, and the pen is very sharp" - Terry Pratchett, The Light Fantastic
 
-- Eliseo S.**
-- “If you tell the truth, you don't have to remember anything.” - Mark Twain
-
--Nicholas R.
--"Tomorrow belongs to those who prepare for it today." - Malcolm X
+- Eliseo S.
+- “If you tell the truth, you don't have to remember anything.” - Mark Twain 
 
 -Lideta K.
 -"There is one thing stronger than all the armies in the world, and that is an idea whose time has come." - Victor Hugo
 
 -Britney L.
--"Toto, I've a feeling we're not in Kansas anymore." - Dorothy
+-"Toto, I've a feeling we're not in Kansas anymore." - Dorothy 
 
 - Ashley R.
 -"Don't cry because its over, smile because it happened." - Dr. Seuss
 
-- Justin U.
-- “I see now that the circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are.” - Mewtwo
-
-- April J.
-- "It's all to do with the training: you can do a lot if you're properly trained." - Queen Elizabeth II
-
-- Sarah G.
-- "We can choose to be perfect and admired or to be real and loved." - Glennon Doyle Melton
-
-- Jefferson B.
-- "It's not whether you get knocked down, it's whether you get up." — Vince Lombardi
-
-- Josh D.
-- "End? No, the journey doesn't end here. Death is just another path, one that we all must take. The grey rain-curtain of this world rolls back, and all turns to silver glass, and then you see it. White shores, and beyond, a far green country under a swift sunrise." - Gandalf the White
-
-- Michael Y.
-- "I'm not convinced I know how to read. I've just memorized a lot of words." - Nick from New Girl
-
--Yi J.
-- "It’s never too late to do the right thing." - Nicholas Sparks
-
-- Ben S.
-- What counts is not necessarily the size of the dog in the fight - it's the size of the fight in the dog."  Dwight D. Eisenhower
-
-- Sarah F.
-- A society grows great when old men plant trees whose shade they know they shall never sit in.” Greek Proverb
-
-- Matt S.
-- "Life is what happens when you're busy making other plans." - John Lennon
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-- Shampaine E.
-- “You are never too old to reinvent yourself.” -Steve Harvey
-
-=======
-- Jason R.
-- "Don't make me angry. You won't like me when I'm angry" - Dr. Bruce Banner
->>>>>>> 4c44366c6db8d87a7e5a3f9a7daa0ddd6e3ed5f9
-=======
--Josh E.
--“The highest reward for a man’s toil is not what he gets by it but what he becomes by it.” – John Ruskin
-=======
-- Jason R.
-- "Don't make me angry. You won't like me when I'm angry" - Dr. Bruce Banner
-
-- Michael M.
-- "You had me at Meat Tornado" - Ron Swanson
->>>>>>> 443c1a921e43f3dc0d3299dabfa73b8ac988e0ae
-
-- Westin H.
-- "Never gonna give you up, Never gonna let you down, Never gonna run around and desert you" - Rick Astley
->>>>>>> ae1a6ec49c2f65527d6d190878d69f2a510dd351
-
-- Andrey D.
-- "To be, or not to be: that is the question" - William Shakespeare
-
-- Justin A.
-- we shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender - Winston Churchill
-===========================
-- Charles H.
-- "If you train hard, you'll not only be hard, you'll be hard to beat" - Herschel Walker
-
--Billy N,
--"Someone's sitting in the shade today because someone planted a tree a long time ago." - Warren Buffett
-
--Chris H.
--"I aspire sir, to be more than I am..." - Commander Data
-
--Chris H.
--"It is better to stay quiet and be though a fool than to open it and remove all doubt" - Mark Twain
-
-- Tanea J.
-- "Bring it around town, bring it arooouunnd tooowwn" - Spongebob Squarepants
-
--William I.
-- “Do what you can, with what you have, where you are.” –Theodore Roosevelt
-
--Chris R.
-- "I'm just here so I don't get fined." - Marshawn Lynch
-
+-T. Neil W.
+-"If you ain't first, you're last." - Ricky Bobby 
