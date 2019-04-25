@@ -164,4 +164,8 @@ Karen L.
 
 -Chris R.
 - "I'm just here so I don't get fined." - Marshawn Lynch
+
+- Anna H.
+- "Great minds discuss ideas; average minds discuss events; small minds discuss people." - Eleanor Roosevelt
+
 >>>>>>> parent of c6b255a... Update class_quotes.txt
