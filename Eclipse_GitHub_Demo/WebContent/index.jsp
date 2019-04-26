@@ -204,6 +204,10 @@ Instructions:
 	<td>Anna</td>
 	<td>H</td>
 </tr>
+<tr>
+	<td>Deborah</td>
+	<td>Y</td>
+</tr>
 </table>
 </body>
 </html>
