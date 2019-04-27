@@ -28,6 +28,10 @@ Instructions:
   <td>Last Name Initial</td>
 </tr>
 <tr>
+	<td>STEVEN</td>
+	<td>R</td>
+</tr>
+<tr>
   <td>Craig</td>
   <td>P</td>
 </tr>
