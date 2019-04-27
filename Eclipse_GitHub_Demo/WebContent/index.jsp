@@ -216,6 +216,10 @@ Instructions:
 	<td>Patrick</td>
 	<td>R</td>
 </tr>
+<tr>
+	<td>Terry</td>
+	<td>M.</td>
+</tr>
 </table>
 </body>
 </html>
