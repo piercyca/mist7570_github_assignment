@@ -220,6 +220,10 @@ Instructions:
 	<td>Terry</td>
 	<td>M</td>
 </tr>
+<tr>
+	<td>Lisa</td>
+	<td>M</td>
+</tr>
 </table>
 </body>
 </html>
