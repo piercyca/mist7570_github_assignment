@@ -229,7 +229,7 @@ Instructions:
 </tr>
 
 <tr>
-	<td>Amy</td>
+	<td> Amy </td>
 	<td>T</td>
 </tr>
 
