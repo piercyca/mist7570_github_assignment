@@ -223,6 +223,9 @@ Instructions:
 <tr>
 	<td>Lisa</td>
 	<td>M</td>
+</tr><tr>
+	<td>Sang</td>
+	<td>K</td>
 </tr>
 </table>
 </body>
