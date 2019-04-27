@@ -21,7 +21,7 @@
 - “Your focus determines your reality.” – Qui-Gon Jinn (star wars)
 
 Mike C.
-Talent is cheaper than table salt. What separates the talented individual 
+Talent is cheaper than table salt. What separates the talented individual
 from the successful one is a lot of hard work. - Stephen King
 
 - Glen F.
@@ -47,7 +47,7 @@ Karen L.
 - Joe V.
 - “That’s what I do. I drink and I know things” - Tyrion Lannister
 
-- Greg M. 
+- Greg M.
 - "I say what I want to say and do what I want to do. There's no in between. People will either love you for it or hate you for it." - Eminem
 
 - Clark W.
@@ -63,26 +63,26 @@ Karen L.
 -"It's Morphin Time!" - Power Rangers
 
 - Ben P.
-- "Time is an illusion. Lunchtime doubly so." - Douglas Adams 
+- "Time is an illusion. Lunchtime doubly so." - Douglas Adams
 
 - Jennifer L.
 - "The pen is mightier than the sword if the sword is very short, and the pen is very sharp" - Terry Pratchett, The Light Fantastic
 
 - Eliseo S.
-- “If you tell the truth, you don't have to remember anything.” - Mark Twain 
+- “If you tell the truth, you don't have to remember anything.” - Mark Twain
 
 -Lideta K.
 -"There is one thing stronger than all the armies in the world, and that is an idea whose time has come." - Victor Hugo
 
 -Britney L.
--"Toto, I've a feeling we're not in Kansas anymore." - Dorothy 
+-"Toto, I've a feeling we're not in Kansas anymore." - Dorothy
 
 - Ashley R.
 -"Don't cry because its over, smile because it happened." - Dr. Seuss
 
 <<<<<<< HEAD
 -T. Neil W.
--"If you ain't first, you're last." - Ricky Bobby 
+-"If you ain't first, you're last." - Ricky Bobby
 =======
 - Justin U.
 - “I see now that the circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are.” - Mewtwo
@@ -168,12 +168,12 @@ Karen L.
 - Anna H.
 - "Great minds discuss ideas; average minds discuss events; small minds discuss people." - Eleanor Roosevelt
 
-- Dennis B. 
+- Dennis B.
 - "She was my dream, my muse. A vision suitable for the wide-screen format. I can still taste her fist against my face. The sweet sugary sweat from a lifetime of diabetes. A heartbeat you could hear from six blocks away. One big pump every hour" - Early Cuyler
 
 >>>>>>> parent of c6b255a... Update class_quotes.txt
 
-- Deborah Y. 
+- Deborah Y.
 - “Better to remain silent and be thought a fool than to speak out and remove all doubt.”
 – Abraham Lincoln
 
@@ -183,3 +183,6 @@ Karen L.
 
 -Evan L.
 -"This sticker is dangerous and inconvenient, but I do love Fig Newtons." - Ricky Bobby
+
+- Terry M.
+"Like books and black lives, albums still matter." - Prince 0(+>
