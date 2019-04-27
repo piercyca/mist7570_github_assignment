@@ -212,6 +212,10 @@ Instructions:
 	<td>Deborah</td>
 	<td>Y</td>
 </tr>
+<tr>
+	<td>Patrick</td>
+	<td>R</td>
+</tr>
 </table>
 </body>
 </html>
