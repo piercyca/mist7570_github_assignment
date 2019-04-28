@@ -175,6 +175,12 @@ Instructions:
 	<td>Evan</td>
 	<td>L</td>
 </tr>
+
+<tr>
+	<td>Alex</td>
+	<td>B</td>
+</tr>
+
 </table>
 </body>
 </html>
