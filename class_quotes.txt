@@ -199,6 +199,19 @@ Karen L.
 - William T.
 - "At the Derek Zoolander Center For Children Who Can’t Read Good And Wanna Learn To Do Other Stuff Good Too, we teach you that there’s more to life than being really, really good looking." - Derek Zoolander
 
+<<<<<<< HEAD
 - Alex B.
 - "...I eat morons like you for breakfast. You're gonna be crying before this is over." - Judge Judy
 
+=======
+<<<<<<< HEAD
+-Jordan N
+- "Almost nothing material is needed for a happy life, for he who has understood existence." - Marcus Aurelius
+=======
+- Joanna W.
+- "You get whatever accomplishment you are willing to declare." -Georgia O'Keeffe
+>>>>>>> 70239969e177069fb4ae5addd4b3530151787337
+
+- Jason T.
+- “If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.” ― Sirius Black in J.K. Rowling, Harry Potter and the Goblet of Fire
+>>>>>>> d4482d4d479769723be14c6bcede6eabcdd51d0d
