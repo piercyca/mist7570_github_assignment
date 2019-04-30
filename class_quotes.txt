@@ -235,3 +235,6 @@ Karen L.
 -Person K. (G.)
 "You must be the change you wish to see in the world" - Ghandi
 >>>>>>> 43c714b53c543d0cc6c10ef632ea983b03355f3a
+
+-Jason S.
+"The difference between stupidity and genius is that genius has its limits." - Albert Einstein
