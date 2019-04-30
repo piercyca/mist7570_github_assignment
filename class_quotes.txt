@@ -228,5 +228,10 @@ Karen L.
 -Danielle S.
 "If you want to live and thrive, let the spider run alive."
 
+<<<<<<< HEAD
 -Katrina E.
 "You know, it's times like these when I realize what a superhero I am." -Tony Stark on Iron Man 3
+=======
+-Person K. (G.)
+"You must be the change you wish to see in the world" - Ghandi
+>>>>>>> 43c714b53c543d0cc6c10ef632ea983b03355f3a
