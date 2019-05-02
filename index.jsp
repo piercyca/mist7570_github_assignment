@@ -31,10 +31,6 @@ Instructions:
   <td>Craig</td>
   <td>P</td>
 </tr>
-tr>
-  <td>Katrina</td>
-  <td>E</td>
-</tr>
 <tr>
   <td>Nhia</td>
   <td>V</td>
@@ -149,7 +145,7 @@ tr>
 	<td>Josh</td>
 	<td>E</td>
 </tr>
-
+	
 <tr>
 	<td>Westin</td>
 	<td>H</td>
