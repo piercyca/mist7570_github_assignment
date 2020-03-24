@@ -248,7 +248,7 @@
 			<td>Ben</td>
 			<td>Y</td>
 		</tr>
-<tr>
+		<tr>
 			<td>Amber</td>
 			<td>W</td>
 		</tr>
@@ -267,6 +267,10 @@
 		<tr>
 			<td>Michael</td>
 			<td>T</td>
+		</tr>
+		<tr>
+			<td>Kiran</td>
+			<td>P</td>
 		</tr>
 	</table>
 </body>
