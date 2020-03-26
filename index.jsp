@@ -199,7 +199,7 @@ Instructions:
 </tr>
 <tr>
 	<td>Peter</td>
-	<td>R</td>
+	<td>B</td>
 </tr>
 </table>
 </body>
