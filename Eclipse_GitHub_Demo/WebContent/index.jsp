@@ -277,6 +277,12 @@
 			<td>Austin</td>
 			<td>M</td>
 		</tr>
+		
+		<tr>
+			<td>Peter</td>
+			<td>B</td>
+		</tr>
+		
 	</table>
 </body>
 </html>
