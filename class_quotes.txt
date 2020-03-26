@@ -1,4 +1,4 @@
-﻿**** 1) add one line with your first name and initial of your last name ****
+**** 1) add one line with your first name and initial of your last name ****
 **** 2) add a second line with a favorite quote                         ****
 **** 3) stage, commit and push your changes to the github repository ****
 
@@ -253,3 +253,6 @@ Karen L.
 
 -Neil M.
 "Most people do not listen with the intent to understand; they listen with the intent to reply" - Stephen Covey
+
+-Jonathon R.
+"Be yourself. Everyone else is already taken." - Oscar Wilde
