@@ -145,7 +145,7 @@ Instructions:
 	<td>Josh</td>
 	<td>E</td>
 </tr>
-	
+
 <tr>
 	<td>Westin</td>
 	<td>H</td>
@@ -195,6 +195,10 @@ Instructions:
 </tr>
 <tr>
 	<td>Jonathon</td>
+	<td>R</td>
+</tr>
+<tr>
+	<td>Peter</td>
 	<td>R</td>
 </tr>
 </table>
