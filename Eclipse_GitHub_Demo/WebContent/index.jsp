@@ -290,6 +290,10 @@
 			<td>Gerry</td>
 			<td>F</td>
 		</tr>
+		<tr>
+			<td>Caleb</td>
+			<td>B</td>
+		</tr>
 	</table>
 </body>
 </html>
