@@ -18,7 +18,7 @@
 		<li>Save, stage, commit and push your changes to the Git
 			Repository.</li>
 	</ol>
-	</p>
+	
 
 	<table border=1>
 		<tr>
@@ -138,32 +138,34 @@
 			<td>F</td>
 
 		</tr>
-		<<<<<<< HEAD
+	
 
 		<tr>
 			<td>Shampaine</td>
 			<td>E</td>
 		</tr>
 
-		=======
+		
 		<tr>
-			<<<<<<< HEAD
+		
 			<td>Josh</td>
-			<td>E</td> =======
+			<td>E</td>
+			</tr>
+			<tr>
 			<td>Jason</td>
 			<td>R</td>
 		</tr>
-		<<<<<<< HEAD >>>>>>> 4c44366c6db8d87a7e5a3f9a7daa0ddd6e3ed5f9 =======
+	
 		<tr>
 			<td>Michael</td>
-			<td>M</td> >>>>>>> 443c1a921e43f3dc0d3299dabfa73b8ac988e0ae
+			<td>M</td> 
 		<tr>
 			<td>Westin</td>
 			<td>H</td>
 		</tr>
 
-		</tr>
-		>>>>>>> ae1a6ec49c2f65527d6d190878d69f2a510dd351
+		
+		
 
 		<tr>
 			<td>Andrey</td>
@@ -301,6 +303,10 @@
 		<tr>
 			<td>Angel</td>
 			<td>M</td>
+		</tr>
+		<tr>
+			<td>Jess</td>
+			<td>B</td>
 		</tr>
 	</table>
 </body>
