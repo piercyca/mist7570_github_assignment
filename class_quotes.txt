@@ -281,5 +281,10 @@ Angel M
 Todd L
 "The way I see it, if you want the rainbow, you gotta put up with the rain." - Dolly Parton
 
+<<<<<<< HEAD
 Delmaries G.
 "If you're always trying to be normal you will never know how amazing you can be." -Maya Angelou
+=======
+Jess B
+"It's not about death, but life." - Raiden, Mortal Kombat
+>>>>>>> 844135768975480340c3e830d06d243ce278d8e0
