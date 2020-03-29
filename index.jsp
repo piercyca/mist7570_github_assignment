@@ -298,25 +298,30 @@
 			<td>Anita</td>
 			<td>L</td>
 		</tr>
+		<tr>
 			<td>Todd</td>
 			<td>L</td>
 		</tr>
-		</tr>
+		<tr>
 			<td>Seth</td>
 			<td>F</td>
 		</tr>
-		</tr>
+		<tr>
 			<td>Ross</td>
 			<td>B</td>
 		</tr>
-		</tr>
+		<tr>
 			<td>Josh</td>
 			<td>B</td>
 		</tr>
 
-		</tr>
+		<tr>
 			<td>Joe</td>
 			<td>D</td>
+		</tr>
+		<tr>
+			<td>Janice</td>
+			<td>B</td>
 		</tr>
 	</table>
 </body>
