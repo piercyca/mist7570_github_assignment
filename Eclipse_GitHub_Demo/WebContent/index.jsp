@@ -321,6 +321,14 @@
 			<td>B</td>
 		</tr>
 		<tr>
+			<td>Amy</td>
+			<td>P</td>
+		</tr>
+		<tr>
+			<td>Avery</td>
+			<td>B</td>
+		</tr>
+		<tr>
 			<td>Jacquelyn</td>
 			<td<H/td>
 			
