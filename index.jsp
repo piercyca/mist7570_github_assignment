@@ -323,6 +323,10 @@
 			<td>Janice</td>
 			<td>B</td>
 		</tr>
+		<tr>
+			<td>Alex</td>
+			<td>A</td>
+		</tr>
 	</table>
 </body>
 </html>
