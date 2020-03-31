@@ -337,7 +337,11 @@
 			<td>Lauren</td>
 			<td>F</td>
 		</tr>
-
+		
+		<tr>
+			<td>Lance</td>
+			<td>H</td>
+		</tr>
 	</table>
 </body>
 </html>
