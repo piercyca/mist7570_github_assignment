@@ -326,8 +326,13 @@ Alex A.
 "Without my dog my wallet would be full my house would be clean but my heart would be empty."
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Trevor S.
 “Being intelligent is not a felony. But most societies evaluate it as at least a misdemeanor.” Robert A. Heinlein
+=======
+Lance H.
+"There is no spoon." - Neo
+>>>>>>> caa3b0cc1fc2592a7b3bc68a3376cfd7eba7833d
 =======
 Lance H.
 "There is no spoon." - Neo
