@@ -337,6 +337,10 @@
 			<td>Lauren</td>
 			<td>F</td>
 		</tr>
+		<tr>
+			<td>Trevor</td>
+			<td>S</td>
+		</tr>
 
 	</table>
 </body>
